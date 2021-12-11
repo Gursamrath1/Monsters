@@ -1,0 +1,54 @@
+.copy_right_footer
+{
+    font-family:sans-serif;
+    color:royalblue;
+    bottom:0;
+    position:fixed;
+    width:100%;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px aqua;
+    font-size: 18px;
+    background:violet;
+}
+
+body{
+    background:lightblue;
+    font-family:'Luxurious Script', 'cursive';
+    font-size:25px; 
+}
+
+button
+{
+font-weight:bolder;
+font-family: serif;
+letter-spacing:3px;
+margin-top: 30px;
+}
+
+.header_div p{
+    font-family:'Luxurious Script', 'cursive';
+    font-weight:bold;
+    letter-spacing:2px;
+    font-size: 25px;
+    color:gray;
+}
+
+.main_div button{
+    font-family: 'open-sans', sans-serif;
+    margin-top: 30px;
+    width:130px;
+    font-weight:bolder;
+    letter-spacing: 3px;
+}
+
+.header_div
+{
+    background:lightblue;
+    color: red
+}
+
+h3, h4
+{
+    font-size:30px;
+}
